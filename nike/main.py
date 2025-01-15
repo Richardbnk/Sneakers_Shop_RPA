@@ -1,5 +1,5 @@
 """
-Descontinued for todays website:
+Descontinued since the new firewall from nike is more extreme today.
 
 Before Running, for the login to work, change the text "cdc" to any other text with 3 digits, as shown in the code below:
 
