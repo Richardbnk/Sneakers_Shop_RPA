@@ -1,2 +1,3 @@
-# buying_sneakers_bot
-Bot to buy sneakers from nike on launch.
+# Buying Sneakers Bot
+
+RPA process for automate the buying of sneakers on nike faster on launch.
